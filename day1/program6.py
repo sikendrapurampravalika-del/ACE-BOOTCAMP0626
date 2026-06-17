@@ -1,0 +1,8 @@
+a=int(input("enter a number:"))
+b=int(input("enter another number:"))
+print("Identity a is a", a is a)
+print("Identity b is b", b is b)
+print("Identity a is not b", a is not b)
+print("Identity b is not a", b is not a)
+print("Identity a is b", a is b)
+print("Identity b is a", b is a)
